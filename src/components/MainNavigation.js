@@ -18,7 +18,7 @@ const MainNavigation = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/products" className={activeStyle}>
+            <NavLink to="products" className={activeStyle}>
               Products
             </NavLink>
           </li>
